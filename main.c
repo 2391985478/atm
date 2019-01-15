@@ -35,11 +35,20 @@ int main(){
             printf("quchu\n");
             int qu;
             scanf("%d",&qu);
-
+            if(qu>qian){
+                printf("shibai,huiche\n");
+                char x;
+                scanf("%c",&x);
+                scanf("%c",&x);
+            }
+            else{
+                qian -= qu;
+    
             printf("huiche\n");
             char x;
             scanf("%c",&x);
             scanf("%c",&x);
+            }
             
         }
         if(code == 3){
