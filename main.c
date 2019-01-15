@@ -53,7 +53,8 @@ int main(){
             
         }
         if(code == 4){
-
+            printf("tuichu\n");
+            break;
             
         }
     }
