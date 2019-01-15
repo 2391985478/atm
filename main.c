@@ -2,6 +2,8 @@
 
 int main(){
 
+    int qian = 0;
+
     printf("xitong\n");
 
     while(1){
@@ -19,8 +21,15 @@ int main(){
         scanf("%d",&code);
 
         if(code == 1){
+            printf("cunru:\n");
+            int cun;
+            scanf("%d",&cun);
+            qian += cun;
 
-
+            printf("huiche\n");
+            char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
         }
         if(code == 2){
 
