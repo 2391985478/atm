@@ -43,7 +43,13 @@ int main(){
             
         }
         if(code == 3){
+            printf("yuewei:\n");
+            printf("%d\n",qian);
 
+            printf("huiche\n");
+            char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
             
         }
         if(code == 4){
