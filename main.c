@@ -32,7 +32,14 @@ int main(){
             scanf("%c",&x);
         }
         if(code == 2){
+            printf("quchu\n");
+            int qu;
+            scanf("%d",&qu);
 
+            printf("huiche\n");
+            char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
             
         }
         if(code == 3){
